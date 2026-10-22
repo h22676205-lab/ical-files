@@ -84,6 +84,15 @@ LOCATION:桃園分校
 DESCRIPTION:可自行前往或搭學校租的遊覽車（需繳車費），詳細報名資訊尚未公布。
 END:VEVENT
 BEGIN:VEVENT
+UID:kktix-comedy-kids-20261128@ai-colab.local
+DTSTAMP:20261022T052202Z
+DTSTART;TZID=Asia/Taipei:20261128T103000
+DTEND;TZID=Asia/Taipei:20261128T120000
+SUMMARY:台北喜劇節：Fun星球即興兒童故事劇
+LOCATION:西門紅樓 臺北市萬華區成都路10號
+DESCRIPTION:KKTIX 訂單 #159274819（電子票券）。主辦：卡米地 Live Comedy Club Taipei。結束時間為估計值。
+END:VEVENT
+BEGIN:VEVENT
 UID:school-parentday-20260918@ai-colab.local
 DTSTAMP:20260901T052412Z
 DTSTART;VALUE=DATE:20260918
