@@ -89,8 +89,6 @@ DTSTAMP:20261028T041500Z
 DTSTART;TZID=Asia/Taipei:20261113T183000
 DTEND;TZID=Asia/Taipei:20261113T203000
 SUMMARY:P班家長說明會 Thanksgiving Party
-LOCATION:土城校 一樓教室
-DESCRIPTION:感恩派對形式，了解孩子在英文學習與各種情境中的互動狀況。對象：P1A P1B P2A P2B。活動當天英文班上課時間調整至晚上。需繳回條（出席與否、孩子是否留校用餐）。
 END:VEVENT
 BEGIN:VEVENT
 UID:lowdose-ct-boren-20261120@ai-colab.local
