@@ -84,6 +84,15 @@ LOCATION:桃園分校
 DESCRIPTION:可自行前往或搭學校租的遊覽車（需繳車費），詳細報名資訊尚未公布。
 END:VEVENT
 BEGIN:VEVENT
+UID:lowdose-ct-boren-20261120@ai-colab.local
+DTSTAMP:20261028T035049Z
+DTSTART;TZID=Asia/Taipei:20261120T100000
+DTEND;TZID=Asia/Taipei:20261120T113000
+SUMMARY:肺部低劑量電腦斷層（10:00前報到，10:30檢查）
+LOCATION:博仁綜合醫院 健檢中心
+DESCRIPTION:先到博仁醫院健檢中心報到，會有人帶去檢查。攜帶：身分證、健保卡、費用5500元。結束時間為估計值。
+END:VEVENT
+BEGIN:VEVENT
 UID:kktix-comedy-kids-20261128@ai-colab.local
 DTSTAMP:20261022T052202Z
 DTSTART;TZID=Asia/Taipei:20261128T103000
